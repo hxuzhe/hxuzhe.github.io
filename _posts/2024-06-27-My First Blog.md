@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      My First Post 				# 标题 
+title:      My First Blog 				# 标题 
 subtitle:   Hello World, Hello Blog #副标题
 date:       2024-06-27 				# 时间
 author:     韩旭哲 						# 作者
