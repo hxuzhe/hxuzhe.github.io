@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      交换心得（一） 				# 标题 
 subtitle:   孤独放逐 #副标题
-date:       2028-05-07				# 时间
+date:       2025-05-07				# 时间
 author:     韩旭哲 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
