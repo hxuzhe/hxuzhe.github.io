@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      My First Blog 				# 标题 
-subtitle:   Hello World, Hello Blog #副标题
+subtitle:   Hello World #副标题
 date:       2024-06-27 				# 时间
 author:     韩旭哲 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
